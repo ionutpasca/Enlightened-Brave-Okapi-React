@@ -1,0 +1,11 @@
+.component1-container {
+  display: flex;
+  position: relative;
+}
+.component1-button {
+  padding: var(--dl-space-space-fourunits);
+}
+.component1-text1 {
+  display: inline-block;
+  font-family: "Comic Sans MS";
+}

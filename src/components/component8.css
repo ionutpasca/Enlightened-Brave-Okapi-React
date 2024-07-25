@@ -1,0 +1,45 @@
+.component8-container {
+  flex: 0 0 auto;
+  width: 502px;
+  height: auto;
+  display: flex;
+  position: relative;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+}
+.component8-image {
+  width: 200px;
+  object-fit: cover;
+}
+.component8-text03 {
+  display: inline-block;
+}
+.component8-text07 {
+  fill: var(--dl-color-theme-accent2);
+  color: var(--dl-color-theme-accent2);
+  display: inline-block;
+  font-size: 40px;
+  font-family: "Comic Sans MS";
+}
+.component8-text09 {
+  color: var(--dl-color-theme-primary1);
+}
+.component8-text10 {
+  color: var(--dl-color-theme-primary1);
+}
+.component8-text11 {
+  color: var(--dl-color-theme-primary1);
+}
+.component8-link1 {
+  display: inline-block;
+  font-size: 50px;
+  font-family: "Exo 2";
+}
+.component8-text14 {
+  font-style: italic;
+  text-decoration: underline;
+}
+.component8-text16 {
+  display: inline-block;
+}

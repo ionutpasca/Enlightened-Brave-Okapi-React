@@ -1,0 +1,11 @@
+.component3-container {
+  display: flex;
+  position: relative;
+}
+.component3-text1 {
+  display: inline-block;
+  font-size: 44px;
+  font-style: italic;
+  font-family: "Comic Sans MS";
+  font-weight: 700;
+}

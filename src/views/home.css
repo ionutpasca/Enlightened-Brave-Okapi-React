@@ -1,0 +1,46 @@
+.home-container {
+  width: 100%;
+  display: flex;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.home-text {
+  display: inline-block;
+  font-size: 100px;
+  font-family: "STIX Two Text";
+}
+.home-link {
+  display: inline-block;
+  font-size: 50px;
+  font-family: "Exo 2";
+}
+.home-text02 {
+  font-style: italic;
+  text-decoration: underline;
+}
+.home-text04 {
+  display: inline-block;
+}
+.home-text08 {
+  fill: var(--dl-color-theme-accent2);
+  color: var(--dl-color-theme-accent2);
+  display: inline-block;
+  font-size: 40px;
+  font-family: "Comic Sans MS";
+}
+.home-text10 {
+  color: var(--dl-color-theme-primary1);
+}
+.home-text11 {
+  color: var(--dl-color-theme-primary1);
+}
+.home-text12 {
+  color: var(--dl-color-theme-primary1);
+}
+.home-text13 {
+  color: var(--dl-color-theme-primary1);
+}
+.home-text14 {
+  color: var(--dl-color-theme-primary1);
+}

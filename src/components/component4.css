@@ -1,0 +1,31 @@
+.component4-container {
+  display: flex;
+  position: relative;
+}
+.component4-text1 {
+  display: inline-block;
+  font-size: 44px;
+  font-family: "Courier New";
+}
+.component4-text2 {
+  font-style: italic;
+}
+.component4-text3 {
+  font-style: italic;
+}
+.component4-text4 {
+  font-style: italic;
+}
+.component4-text5 {
+  font-weight: 900;
+  text-decoration: underline;
+}
+.component4-text6 {
+  font-style: italic;
+}
+.component4-text7 {
+  font-style: italic;
+}
+.component4-text8 {
+  font-style: italic;
+}
